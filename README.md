@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/dec20devops201/SpaceGameWeb%20Pipeline/_apis/build/status/FirstBuildPipeline-YAML?branchName=master)](https://dev.azure.com/dec20devops201/SpaceGameWeb%20Pipeline/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
